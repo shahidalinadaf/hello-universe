@@ -1,5 +1,4 @@
 # hello-universe
-just another repository
 
 Hi Humans!
 
