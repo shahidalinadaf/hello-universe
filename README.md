@@ -1,3 +1,3 @@
 # hello-universe
-just another repository
+just another repository.
 Added another repository
